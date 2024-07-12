@@ -14,7 +14,7 @@
 
 
 
-## Team
+## Contributors
 
 | [![ColoredBytes](https://github.com/ColoredBytes.png?size=100)](https://github.com/ColoredBytes) | [![theknight42](https://github.com/theknight42.png?size=100)](https://github.com/theknight42) |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
