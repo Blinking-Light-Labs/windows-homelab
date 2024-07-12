@@ -23,7 +23,7 @@ After that you should be all set do a reboot just to be safe and you'll be ready
 
 > [!NOTE]
 > These Variables needs to be changed
-
+>
 > - $appName = "" # this should be changd to what the app is called.
 > - $pfxPath = "" # Absoulte path of the cert
 > - $outputDir = "\$appName" #absolute path to where you want eh certs to be saved. 
