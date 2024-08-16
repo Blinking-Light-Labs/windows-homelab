@@ -16,6 +16,6 @@
 
 ## Contributors
 
-| [![ColoredBytes](https://github.com/ColoredBytes.png?size=100)](https://github.com/ColoredBytes) | [![theknight42](https://github.com/theknight42.png?size=100)](https://github.com/theknight42) |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [ColoredBytes](https://github.com/ColoredBytes)                                               | [theknight42](https://github.com/theknight42)                                        |
+<a href="https://github.com/Blinking-Light-Labs/windows-homelab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Blinking-Light-Labs/windows-homelab" />
+</a>
