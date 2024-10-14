@@ -1,6 +1,8 @@
 <h1 align="center"> Windows Homelab </h1>
 
-# :link: Contents
+<h2 align="center"> :link: Contents </h2>
+
+<div align="center">
 
 | Section   | Description                                                              |
 |-----------|--------------------------------------------------------------------------|
@@ -8,6 +10,7 @@
 | [NPAS](./NPAS/)        | PowerShell script to automate the process of setting up an NPAS Server on Windows. |
 | [SSL](./ssl/)          | Windows PowerShell script to extract PFX certs into `pem, crt, key` files for easy Linux use. |
 
+</div>
 
 
 ## Contributors
