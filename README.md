@@ -1,16 +1,12 @@
-# Windows Homelab
+<h1 align="center"> Windows Homelab </h1>
 
 # :link: Contents
 
-- [Hyper-V](./Hyper-V/)
-  - Hyper-V VM Creation Script.
-
-- [NPAS](./NPAS/)
-  - Powershell script to automate the process of setting up an NPAS Server on windows.    
-
-- [SSL](./ssl/)
-  - Windows Powershell script to extract pfx certs into `pem,crt,key` files for easy linux use. 
-
+| Section   | Description                                                              |
+|-----------|--------------------------------------------------------------------------|
+| [Hyper-V](./Hyper-V/)  | Hyper-V VM Creation Script.                                  |
+| [NPAS](./NPAS/)        | PowerShell script to automate the process of setting up an NPAS Server on Windows. |
+| [SSL](./ssl/)          | Windows PowerShell script to extract PFX certs into `pem, crt, key` files for easy Linux use. |
 
 
 
